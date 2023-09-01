@@ -65,7 +65,7 @@
 
 قسمت Backend :
 
- 1- Cd CharKhone-Repo (شده CharKhone-Repo وارد پوشه )
+ 1- Cd CharKhone-Messenger-main (شده CharKhone-Messenger-main وارد پوشه )
 
  2- Cd backend (شده backend وارد پوشه )
 
@@ -78,7 +78,7 @@
 همانند قسمت Backend
 قسمت Frontend :
 
- 1- Cd CharKhone-Repo (شده CharKhone-Repo وارد پوشه )
+ 1- Cd CharKhone-Messenger-main (شده CharKhone-Messenger-main وارد پوشه )
 
  2- Cd frontend (شده frontend وارد پوشه )
 
